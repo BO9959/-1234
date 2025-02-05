@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+requests
+beautifulsoup4
+textblob
+ta
+APScheduler
+pandas
+#tkinter
